@@ -7,7 +7,7 @@ Un proyecto React + TypeScript con autenticación usando Context API y localStor
 - **Autenticación Local**: Sistema de login con almacenamiento en localStorage
 - **Context API**: Compartición de datos entre páginas sin props drilling
 - **Interfaz Moderna**: Diseño limpio con Tailwind CSS
-- **Persistencia de Sesión**: El usuario se mantiene autenticado al refrescar
+- **Persistencia de Sesión**: se mantiene autenticado al refrescar
 
 ## Instalación
 
@@ -48,7 +48,7 @@ src/
 └── routes.ts            # Configuración de rutas
 ```
 
-## ómo Funciona la Autenticación
+## cómo Funciona la Autenticación
 
 1. **Login**: El usuario completa el formulario y sus datos se guardan en:
    - **React Context** (memoria de la aplicación)
