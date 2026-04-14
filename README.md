@@ -26,7 +26,11 @@ npm run dev
 pnpm dev
 ```
 
-Abre [http://localhost:5173](http://localhost:5173) en tu navegador.
+Abre un localhost en el navegado.
+...
+Ejemplo:
+localhost:5173) 
+...
 
 ## Estructura del Proyecto
 
