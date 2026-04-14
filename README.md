@@ -60,7 +60,7 @@ src/
 
 4. **Logout**: Se limpian los datos del contexto y localStorage
 
-## ecnologías
+## Tecnologías
 
 - React 18
 - TypeScript
